@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my masters thesis !!
-- 🌱 I’m currently learning computer vision and multimodal fusion for LLMs
+- 🌱 I’m currently studying computer vision and multimodal fusion for LLMs
 - 😄 Pronouns: she/her
+- ⚡ Non-technical interests: Video games, graphic design, Dungeons and Dragons
 <!--
 **si-rui126/si-rui126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
